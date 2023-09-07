@@ -1,2 +1,2 @@
 # BetterSpotify
-creating awsome music app
+# creating awsome music app
